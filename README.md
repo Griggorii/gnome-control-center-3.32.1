@@ -13,4 +13,6 @@ cd gnome-control-center-3.32.1/build
 
 sudo ninja install
 
+run gnome-control-center
+
 sudo apt --reinstall install gnome-control-center
