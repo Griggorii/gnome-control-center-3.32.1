@@ -16,3 +16,6 @@ sudo ninja install
 run gnome-control-center
 
 sudo apt --reinstall install gnome-control-center
+
+Если после этих вещей что либо случиться и что либо пропадёт то придётся удалить по структуре закинутые фаилы Система-System
+ переустановите ядро и его хедер
