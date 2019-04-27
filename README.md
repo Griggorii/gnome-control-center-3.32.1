@@ -18,4 +18,4 @@ run gnome-control-center
 sudo apt --reinstall install gnome-control-center
 
 Если после этих вещей что либо случиться и что либо пропадёт то придётся удалить по структуре закинутые фаилы Система-System
- переустановите ядро и его хедер
+ переустановите ядро и его хедер https://github.com/Griggorii/linux-kernel-5.0.1-deb-Griggorii-compilation
