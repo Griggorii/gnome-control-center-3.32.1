@@ -1,7 +1,7 @@
 # gnome-control-center-3.32.1
-gnome-control-center-3.32.1 source
+gnome-control-center-3.32.1 source 
 
-Hack  OS 8.0 based Ubuntu 18.10 | Ubuntu 18.04 
+Hack  OS 8.0 based Ubuntu 18.10 | Ubuntu 18.04  libhandy-0.0 gnome-control-center-3.32.1-master/gnome-control-center-3.32.1/build/subprojects/libhandy/src/c70e384@@handy-0.0@sta
 
 Система-System.tar.gz root arhive run inpack /
 
