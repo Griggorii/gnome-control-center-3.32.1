@@ -1,6 +1,8 @@
 # gnome-control-center-3.32.1
 gnome-control-center-3.32.1 source 
 
+Попробуйте выполнить в терминале users-admin
+
 ninja -C .build install
 
 Система-System.tar.gz root arhive run inpack /
